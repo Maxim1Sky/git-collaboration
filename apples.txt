@@ -14,3 +14,7 @@ heeey
 Testing echo command
 Seems like a cool command
 echo <sentence> >> <file name>
+
+I'll try to use:
+git commit -am "comment"
+this allows you to skip the "add" stage, the staging
