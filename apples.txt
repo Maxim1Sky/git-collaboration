@@ -10,3 +10,7 @@ git pull --no-ff
 ls -a // to see all the files and directories
 
 ^^^ AWESOME COMMAND
+heeey
+Testing echo command
+Seems like a cool command
+echo <sentence> >> <file name>
