@@ -22,3 +22,6 @@ this allows you to skip the "add" stage, the staging
 removed a directory with:
 rm -r <dir name>
 rm <file name>
+
+git ls-files --- to see all the staged files
+
