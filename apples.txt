@@ -6,3 +6,5 @@ golden apple
 I don't know any apples
 !!!! I couldn't make a pull request, but now I can thank to this command:
 git pull --no-ff
+
+^^^ AWESOME COMMAND
