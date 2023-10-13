@@ -7,4 +7,6 @@ I don't know any apples
 !!!! I couldn't make a pull request, but now I can thank to this command:
 git pull --no-ff
 
+ls -a // to see all the files and directories
+
 ^^^ AWESOME COMMAND
