@@ -25,3 +25,8 @@ rm <file name>
 
 git ls-files --- to see all the staged files
 
+Clean compact status
+git status -s
+
+Might be useful for checking what changes were made
+git diff --staged
