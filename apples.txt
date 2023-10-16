@@ -39,3 +39,15 @@ git show HEAD~1
 OR OR OR
 You don't have to type the entire ID, as long as there is no other id that starts with let's say first 4 characters
 git show <commit ID> (ex: c4859ff)
+
+
+git restore <file name> (or "." to remove all changes that we've made in working directory and copy to you the versio on staging area)
+
+
+git restore --staged <file name> (or "." for all file in staging area -> you move them to working directory)
+
+
+Resources: 
+Programming with Mosh
+Git Tutorial for Beginners: Learn Git in 1 Hour
+https://www.youtube.com/watch?v=8JJ101D3knE&ab_channel=ProgrammingwithMosh
