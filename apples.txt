@@ -41,10 +41,12 @@ You don't have to type the entire ID, as long as there is no other id that start
 git show <commit ID> (ex: c4859ff)
 
 
-git restore <file name> (or "." to remove all changes that we've made in working directory and copy to you the versio on staging area)
+git restore <file name> (or "." to remove all local changes that we've made in working directory and copy to you the versio on staging area)
 
 
-git restore --staged <file name> (or "." for all file in staging area -> you move them to working directory)
+git restore --staged <file name> (or "." for all files in staging area -> you move them to working directory)
+
+git restore --source=HEAD~1<file name>  (restore file to the previous version) (restore file version to the version of your last commit)
 
 
 Resources: 
