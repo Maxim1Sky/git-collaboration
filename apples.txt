@@ -32,4 +32,10 @@ Might be useful for checking what changes were made
 git diff --staged
 
 See the commits
-git log --oneline
+git log --oneline (--reverse)
+
+HEAD~<num> - it specifies how many steps you wanna go back, ex: 1 = last commit
+git show HEAD~1
+OR OR OR
+You don't have to type the entire ID, as long as there is no other id that starts with let's say first 4 characters
+git show <commit ID> (ex: c4859ff)
