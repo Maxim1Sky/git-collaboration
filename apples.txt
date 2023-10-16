@@ -30,3 +30,6 @@ git status -s
 
 Might be useful for checking what changes were made
 git diff --staged
+
+See the commits
+git log --oneline
